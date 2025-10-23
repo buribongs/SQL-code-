@@ -9,7 +9,17 @@ Each entry records specific information, including a unique order ID, the state 
 - Determine profit margin per product category 
 - Determine Sales Performance by region - Geographical Analysis
 - Evaluate the efficiency or sales volume handled by each supervisor
-- Analyze sales trends over time 
+- Analyze sales trends over time
+
+## Data Analysis Process
+## Data Cleaning 
+Showcasing: 
+- Handling Nulls
+- Use of DISTINCT to check for duplicates.
+- Checking Data types for consistency
+- Use of REPLACE and CAST functions
+
+
 
 
 
