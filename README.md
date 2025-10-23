@@ -28,6 +28,9 @@ Showcasing:
 ## Link to SQL code in HEX 
 - <a href="https://app.hex.tech/019982ef-3609-7007-adea-e89bd5734ac7/hex/E-commerce---Basic-SQL-Project-1-031MXKffs3fpNKoAtDkf0P/draft/logic">SQL queries
 
+## Link to Dashboard in Tableau Public
+- <a href="https://public.tableau.com/app/profile/theodosia.ndefru/viz/EcommerceDataViz_17611575808030/SupervisorSalesperyear">Ecommerce KPIs
+
 
 
 
