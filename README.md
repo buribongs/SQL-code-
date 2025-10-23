@@ -1,2 +1,4 @@
 # Ecommerce Data Analysis by Theodosia Ndefru 
-Repository housing my SQL projects.
+## Dataset from Kaggle 
+## Data Summary 
+
