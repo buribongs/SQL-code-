@@ -18,6 +18,13 @@ Showcasing:
 - Use of DISTINCT to check for duplicates.
 - Checking Data types for consistency
 - Use of REPLACE and CAST functions
+## Data Analysis in HEX IDE
+Showcasing:
+- Aggregate Functions 
+- Group By
+- Order By 
+- Date_trunc
+
 
 
 
