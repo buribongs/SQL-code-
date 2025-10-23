@@ -6,10 +6,10 @@ Each entry records specific information, including a unique order ID, the state 
 
 ## Data Analysis Objectives.
 ##-Identify which product categories generate the highest revenue. (Performance by Category)
--Determine profit margin per product category. (Performance by category)
--Determine Sales Performance by region (Geographical Analysis)
--Evaluate the efficiency or sales volume handled by each supervisor (Supervisor Performance)
--Analyze sales trends over time (Time Series analysis)
+##-Determine profit margin per product category. (Performance by category)
+##-Determine Sales Performance by region (Geographical Analysis)
+##-Evaluate the efficiency or sales volume handled by each supervisor (Supervisor Performance)
+##-Analyze sales trends over time (Time Series analysis)
 
 
 
