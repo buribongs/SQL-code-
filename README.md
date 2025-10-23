@@ -33,7 +33,8 @@ Showcasing:
 
 ## Insights from Analysis and Recommendations.
 - The Data Entry Department needs to pay close attention to Data Entry flaws. Product Category "Motherboard" was entered as "Motherboard" in some instances and "MotherBoard" in other cases, making them look like two separate categories. This can lead to faulty results in analysis.
-- The Product Category 'Monitors' accounted for most of the sales and 'Keyboards', the least consumed. Monitors were closely followed by CPUs. With the rise of AI and Machine Learning, massive computational power is required as Data Centers expand, hence the uptick in CPU purchases. The comapny should invest more in Monitors, CPUs, as well as Graphic cards which account for most of the sales in the computer accessory business. 
+- The Product Category 'Monitors' accounted for most of the sales and 'Keyboards', the least consumed. Monitors were closely followed by CPUs. With the rise of AI and Machine Learning, massive computational power is required as Data Centers expand, hence the uptick in CPU purchases. The comapny should invest more in Monitors, CPUs, as well as Graphic cards which account for most of the sales in the computer accessory business.
+- A consistent profit margin is observed across all product categories. This reflects a business model with a consistent Pricing and Markup structure, which may be good. However, there are lots of missed opportunities. This indicates that high-value products with high-demand are under-priced, leaving money on the table. Also, no drop in activity or sales during the COVID 19 Pandemic years raises eyebrows. The data presented shows no market volatility,supply chain issues, disruption in distribution channels, which were characteristic of the Pandemic period. It makes the data very questionable. 
 
 
 
