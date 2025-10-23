@@ -31,6 +31,9 @@ Showcasing:
 ## Link to Dashboard in Tableau Public
 - <a href="https://public.tableau.com/app/profile/theodosia.ndefru/viz/EcommerceDataViz_17611575808030/SupervisorSalesperyear">Ecommerce KPIs
 
+## Insights from Analysis and Recommendations.
+- Data Entry Department needs to pay attention to Data Entry mistakes. Product Category "Motherboard" was entered as "Motherboard" in some instances and "MotherBoard" in other cases, making them look like two separate categories. This can lead to faulty results in analysis. 
+
 
 
 
