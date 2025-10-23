@@ -1,2 +1,2 @@
 # SQL-Projects
-Repository housing SQL code for my projects.
+Repository housing my SQL projects.
