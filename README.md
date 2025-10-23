@@ -32,7 +32,8 @@ Showcasing:
 - <a href="https://public.tableau.com/app/profile/theodosia.ndefru/viz/EcommerceDataViz_17611575808030/SupervisorSalesperyear">Ecommerce KPIs
 
 ## Insights from Analysis and Recommendations.
-- Data Entry Department needs to pay attention to Data Entry mistakes. Product Category "Motherboard" was entered as "Motherboard" in some instances and "MotherBoard" in other cases, making them look like two separate categories. This can lead to faulty results in analysis. 
+- The Data Entry Department needs to pay close attention to Data Entry flaws. Product Category "Motherboard" was entered as "Motherboard" in some instances and "MotherBoard" in other cases, making them look like two separate categories. This can lead to faulty results in analysis.
+- The Product Category 'Monitors' accounted for most of the sales and 'Keyboards', the least consumed. Monitors were closely followed by CPUs. With the rise of AI and Machine Learning, massive computational power is required as Data Centers expand, hence the uptick in CPU purchases. The comapny should invest more in Monitors, CPUs, as well as Graphic cards which account for most of the sales in the computer accessory business. 
 
 
 
