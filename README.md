@@ -74,8 +74,10 @@ A series of queries were run to identify trends. ( See 'SQL Queries - Bellabeat 
 - There is no direct correlation between level of activity and quality of sleep. 
 - As a matter of fact, in the case of ID # 8053475328, there is an inverse relationship. The more active, the less sleep and the less active, the more sleep. 
 - There must be other factors than level of activity impacting the quality of sleep.
-- The number of participants who reported numbers for sleep is 24. Not all participants wear their trackers in bed. 
-<img width="2160" height="229" alt="image" src="https://github.com/user-attachments/assets/5490df1e-42d7-471f-9761-82a7687f64c2" />
+- The number of participants who reported numbers for sleep is 24. Not all participants wear their trackers in bed.
+<img width="857" height="942" alt="image" src="https://github.com/user-attachments/assets/107c6455-4c2a-44cc-9ef6-bcb484dd86c7" />
+
+
 
 
   
