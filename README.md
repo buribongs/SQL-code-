@@ -92,7 +92,11 @@ Figure 3
 Figure 4 
 - Just 8 participants logged in Weight Info. This is an indication of probably a lack in smart device technologies to conveniently record weight info.
 - Of the 8 records, 5 are overweight, (more than 50%) going by the below interpretation of BMI results.
-<img width="2687" height="147" alt="image" src="https://github.com/user-attachments/assets/ca1aee63-2462-4cdc-b330-bc48e4c9186a" />
+<img width="430" height="226" alt="image" src="https://github.com/user-attachments/assets/14cceea3-f0d3-47b5-bd3b-e03dc84e890b" />
+<img width="903" height="950" alt="image" src="https://github.com/user-attachments/assets/2ebb39b1-5b31-4edb-bb59-b9539fb28045" />
+
+
+
 
 
 
