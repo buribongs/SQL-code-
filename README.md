@@ -18,6 +18,7 @@ She then wants these insights to be applied to one of Bellabeat’s products.
 - Comprehensive: The data makes no mention of demographics. This study is focused on products for women, and it would have been good to have a representation of that demographic in the data. 
 - Current: The data is not current. It is from 2016 
 - Cited: The data has not been cited.
+
 It is worth mentioning that the dataset is CCO: Public domain
 This means that the person who associated a work with this deed has dedicated the work to the public domain by waiving all his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking for permission.
 
