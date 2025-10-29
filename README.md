@@ -37,7 +37,8 @@ These subsets of data will help me identify trends in smart device usage using a
 
 # Data Analysis
 ## Data Cleaning
-- Use of Count Function to validate Daily Activity data 
+- Use of Count Function to validate Daily Activity data
+  
 DailyActivity Data was loaded successfully into MS Excel, Big Query and SQL Server Management Studio and data loaded successfully in all 3 platforms. This helped me test for integrity.  I counted 940 rows across all 3 platforms for “dailyActivity_merged” table. There were no inconsistencies. 
 
 <img width="1291" height="623" alt="BIG QUERY - dailyActivity_merged rows loaded " src="https://github.com/user-attachments/assets/36be3c8d-1c81-4c8b-82c9-6b5bd30c2b7b" />
