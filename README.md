@@ -65,7 +65,15 @@ A series of queries were run to identify trends. ( See 'SQL Queries - Bellabeat 
 - Several queries were run on the data to aggregate for better analysis.
 - Aggregated data was imported into Tableau as extracts and visualizations created to show the trends discovered.
 
-## Findings 
+# Findings 
+- A total of 33 unique participant IDs were found from the dataset.
+- On average, just 21.21% of participants complete 10,000steps a day which is the CDC benchmark.
+- 78.79% fall short.
+<img width="1053" height="886" alt="image" src="https://github.com/user-attachments/assets/61a9b8e2-19cc-4ac3-ac50-ed7c894b20da" />
+
+  
+
+
 
 
 
