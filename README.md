@@ -59,6 +59,7 @@ Using the below query, it was also possible to infer the amount of data supplied
 
 <img width="1085" height="1003" alt="Records per Id - SSMS " src="https://github.com/user-attachments/assets/d30de972-bd01-4fdc-abb7-6835630218c3" />
 
+
 A series of queries were run to identify trends. ( See 'SQL Queries - Bellabeat Project' Word document file attached to this project) 
 
 
