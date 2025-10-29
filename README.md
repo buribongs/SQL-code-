@@ -32,6 +32,7 @@ The following CSV files from the dataset are being analyzed for this case study.
 - weightLogInfo_merged
 - HourlyCalories_merged
 - HourlyIntensities_merged
+  
 These subsets of data will help me identify trends in smart device usage using averages. The minutes and seconds info are too granular to paint the big picture I want to portray.
 
 
