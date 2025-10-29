@@ -62,8 +62,10 @@ Using the below query, it was also possible to infer the amount of data supplied
 
 A series of queries were run to identify trends. ( See 'SQL Queries - Bellabeat Project' Word document file attached to this project) 
 - Data was organized in tables in SSMS
-- Several queries were run on the data to aggregate and make it make more sense.
-- Aggregated data was imported into Tableau as extracts and visualizations created to show the trends discovered. 
+- Several queries were run on the data to aggregate for better analysis.
+- Aggregated data was imported into Tableau as extracts and visualizations created to show the trends discovered.
+
+## Findings 
 
 
 
