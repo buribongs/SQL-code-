@@ -53,6 +53,13 @@ I chose SSMS (SQL Server Management Studio) for analysis. I find the interface q
 
 The data also shows that not just 30 people (sample size) provided data.  33 unique Ids were found using the below query. 
 
+<img width="1912" height="1006" alt="Unique Ids -SSMS" src="https://github.com/user-attachments/assets/be1d3f2f-3ed2-45a2-9745-45358142dd8c" />
+
+Using the below query, it was also possible to infer the amount of data supplied by each unique Id. Most of the participants provided data for a month (31 days) but 1 person provided data for just 4 days. 
+
+<img width="1085" height="1003" alt="Records per Id - SSMS " src="https://github.com/user-attachments/assets/d30de972-bd01-4fdc-abb7-6835630218c3" />
+
+
 
 
 
