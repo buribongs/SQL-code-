@@ -44,7 +44,10 @@ DailyActivity Data was loaded successfully into MS Excel, Big Query and SQL Serv
 <img width="1291" height="623" alt="BIG QUERY - dailyActivity_merged rows loaded " src="https://github.com/user-attachments/assets/36be3c8d-1c81-4c8b-82c9-6b5bd30c2b7b" />
 <img width="1253" height="745" alt="SSMS - 'dailyActivity_merged'  rows loaded " src="https://github.com/user-attachments/assets/3e4e12b0-b35c-4139-bf59-bbe151933f1f" />
 <img width="1377" height="689" alt="Ms Excel - 'dailyActivity_merged' rows loaded " src="https://github.com/user-attachments/assets/cdda31cf-e715-4de6-8166-ff1fdeb1bbf1" />
-## Data Cleaning
+
+- Checking for NULLs: Using the ‘is NULL’ function for each column.
+- Checking for duplicates: Usinf DISTINCT - No duplicates found. 
+
 
 
 
