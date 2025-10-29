@@ -35,6 +35,17 @@ The following CSV files from the dataset are being analyzed for this case study.
   
 These subsets of data will help me identify trends in smart device usage using averages. The minutes and seconds info are too granular to paint the big picture I want to portray.
 
+## Data Analysis
+DailyActivity Data was loaded successfully into MS Excel, Big Query and SQL Server Management Studio and data loaded successfully in all 3 platforms. This helped me test for integrity.  I counted 940 rows across all 3 platforms for “dailyActivity_merged” table. There were no inconsistencies. 
+
+<img width="1291" height="623" alt="BIG QUERY - dailyActivity_merged rows loaded " src="https://github.com/user-attachments/assets/36be3c8d-1c81-4c8b-82c9-6b5bd30c2b7b" />
+<img width="1253" height="745" alt="SSMS - 'dailyActivity_merged'  rows loaded " src="https://github.com/user-attachments/assets/3e4e12b0-b35c-4139-bf59-bbe151933f1f" />
+<img width="1377" height="689" alt="Ms Excel - 'dailyActivity_merged' rows loaded " src="https://github.com/user-attachments/assets/cdda31cf-e715-4de6-8166-ff1fdeb1bbf1" />
+
+
+
+
+
 
 
 
