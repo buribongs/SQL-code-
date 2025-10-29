@@ -95,6 +95,21 @@ Figure 4
 <img width="430" height="226" alt="image" src="https://github.com/user-attachments/assets/14cceea3-f0d3-47b5-bd3b-e03dc84e890b" />
 <img width="903" height="950" alt="image" src="https://github.com/user-attachments/assets/2ebb39b1-5b31-4edb-bb59-b9539fb28045" />
 
+# Recommendations 
+The dataset showed that 33 unique participants tracked their activity, 24 of them tracked their sleep patterns and only 8 logged in their weight. 
+
+- Given that only 21.21% of the participants walked up to 10,000 steps a day on average, Bellabeat’s Ivy bracelet could be remodeled to do periodic beeps throughout the day as a reminder to the user to wake up and walk more.
+
+- Given that there is no correlation between activity level and sleep, Bellabeat should educate its customers more on the importance of sleep and factors like diet and stress that equally impact sleep. Also, the Ivy bracelet could be made of soft comfortable material that is easy to wear to bed, so that more women can track their sleep patterns. Or perhaps a new product developed such as a necklace mainly for tracking sleep behaviors.
+ 
+- Adding a visual on the Ivy bracelet on the milestone calories burned versus activity level in a day, could be a real boost to females taking on more activity and reaching their health goals. 
+
+- Not many participants logged in weight info. With a BMI screen included in the Ivy Bracelet, women are more aware of their weight and are likely to weigh often to track the changes in BMI, as they strive towards a healthier weight. 
+
+As mentioned in the beginning, the data analyzed has  many flaws. Therefore, more study on a larger sample with the women demographic clearly spelled out, is highly recommended for informed decision-making. 
+
+
+
 
 
 
