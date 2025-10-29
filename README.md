@@ -1,5 +1,5 @@
 # BellaBeat Case Study
-## Datasaet from Kaggle - Origin and Context:
+## Dataset from Kaggle - Origin and Context:
 The data being analyzed is public data that explores smart device users’ daily habits. 
 Sršen proposes this specific dataset for analysis: 
 Fitbit Fitness Tracker Data (CC0: Public Domain, dataset made available through Mobius
