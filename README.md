@@ -24,14 +24,14 @@ This means that the person who associated a work with this deed has dedicated 
 
 # Data Sources Used:  
 The following CSV files from the dataset are being analyzed for this case study.
-•	dailyActivity_merged
-•	dailyCalories_merged
-•	dailyIntensities_merged
-•	dailySteps_merged
-•	sleepDay_merged. 
-•	weightLogInfo_merged 
-•	HourlyCalories_merged
-•	HourlyIntensities_merged
+- dailyActivity_merged
+- dailyCalories_merged
+- dailyIntensities_merged
+- dailySteps_merged
+- sleepDay_merged.
+- weightLogInfo_merged
+- HourlyCalories_merged
+- HourlyIntensities_merged
 These subsets of data will help me identify trends in smart device usage using averages. The minutes and seconds info are too granular to paint the big picture I want to portray.
 
 
