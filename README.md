@@ -82,6 +82,13 @@ Figure 2
 - The number of participants who reported numbers for sleep is 24. Not all participants wear their trackers in bed.
 <img width="857" height="942" alt="image" src="https://github.com/user-attachments/assets/107c6455-4c2a-44cc-9ef6-bcb484dd86c7" />
 
+Figure 3 
+
+- There is a somewhat direct correlation between the intensity of activity and the calories burned.
+- For most participants, both graphs peaked at the same points. Meaning as average intensity goes up, average calories burned also go up.
+- However, for ID # 4057192912, there is an indication of high calorie burn with minimal intensity. Therefore, there are other factors contributing to calorie burn which the data does not necessarily portray
+<img width="1023" height="861" alt="image" src="https://github.com/user-attachments/assets/b8193c9a-e424-4d2f-a399-1cbc05cd1152" />
+
 
 
 
