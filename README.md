@@ -89,6 +89,14 @@ Figure 3
 - However, for ID # 4057192912, there is an indication of high calorie burn with minimal intensity. Therefore, there are other factors contributing to calorie burn which the data does not necessarily portray
 <img width="1023" height="861" alt="image" src="https://github.com/user-attachments/assets/b8193c9a-e424-4d2f-a399-1cbc05cd1152" />
 
+Figure 4 
+- Just 8 participants logged in Weight Info. This is an indication of probably a lack in smart device technologies to conveniently record weight info.
+- Of the 8 records, 5 are overweight, (more than 50%) going by the below interpretation of BMI results.
+<img width="2687" height="147" alt="image" src="https://github.com/user-attachments/assets/ca1aee63-2462-4cdc-b330-bc48e4c9186a" />
+
+
+
+
 
 
 
